@@ -4,10 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Circle c = new Circle(7.5);
+		Circle c = new Circle(56.25);
 		c.displayInfo();
 
 	}
 
 }
-
